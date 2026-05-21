@@ -1,2 +1,0 @@
-# STEADYHUB-
-Running platform
